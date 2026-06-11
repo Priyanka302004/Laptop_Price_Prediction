@@ -37,6 +37,7 @@ Users can enter laptop features and get a predicted price instantly.
 
 📂 Project Structure
 Laptop-Price-Predictor/
+
 │
 ├── data/                # Dataset
 ├── notebooks/           # Jupyter notebooks
